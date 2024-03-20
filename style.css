@@ -81,6 +81,7 @@ button {
 }
 
 .our-client-right {
+    margin-left: 70px;
     display: flex;
     justify-content: space-evenly;
 }
@@ -95,6 +96,11 @@ button {
 
 .your-business-left {
     max-width: 250px;
+    text-align: center;
+}
+
+.your-business-left p {
+    margin-top: 18px;
 }
 
 .your-business-middle {
@@ -113,27 +119,27 @@ button {
 .your-business-img-1 {
     max-width: 40px;
     padding: 10px;
-    background-color: rgba(0, 0, 247, 0.096);
+    background-color: rgba(0, 0, 247, 0.126);
     border-radius: 10px;
 }
 
 .your-business-img-2 {
     max-width: 40px;
     padding: 10px;
-    background-color: rgba(247, 0, 177, 0.096);
+    background-color: rgba(247, 0, 177, 0.126);
     border-radius: 10px;
 }
 
 .your-business-img-3 {
     max-width: 40px;
     padding: 10px;
-    background-color: rgba(247, 243, 0, 0.096);
+    background-color: rgba(251, 247, 0, 0.296);
     border-radius: 10px;
 }
 
 .your-business-img-4 {
     max-width: 40px;
     padding: 10px;
-    background-color: rgba(0, 247, 58, 0.096);
+    background-color: rgba(0, 247, 58, 0.296);
     border-radius: 10px;
 }
