@@ -1,0 +1,139 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main-nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    font-family: sans-serif;
+
+}
+
+.main-right-nav {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nav-element {
+    padding-right: 19px;
+}
+
+.main-body {
+    margin-top: 20px;
+    display: flex;
+    height: 450px;
+}
+
+.main-left-nav {
+    padding-left: 30px;
+}
+
+.main-body-image {
+    height: 350px;
+}
+
+button {
+    padding: 12px 17px;  
+    border-radius: 20px;
+    background-color: #2639ED;
+    font-size: 12px b;
+    font-family: sans-serif;
+    color: white;
+    margin: 0px;
+    border: none;
+    margin-top: 20px;
+}
+
+.main-body p {
+    max-width: 300px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.main-body h2 {
+    text-align: left;
+}
+
+.main-body-2 {
+    margin-top: 60px;
+    margin-left: 5%;
+}
+
+.our-client {
+    display: flex;
+    align-items: center;
+    margin-left: 60px;
+    text-align: center;
+}
+
+.our-client img {
+    height: 20px;
+    margin-right: 90px;
+}
+
+.our-client-left {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    max-width: 30%;
+}
+
+.our-client-right {
+    display: flex;
+    justify-content: space-evenly;
+}
+/* --------------------------------------------------- */
+.your-business {
+    margin-left: 100px;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.your-business-left {
+    max-width: 250px;
+}
+
+.your-business-middle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 40px;
+}
+
+.your-business-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.your-business-img-1 {
+    max-width: 40px;
+    padding: 10px;
+    background-color: rgba(0, 0, 247, 0.096);
+    border-radius: 10px;
+}
+
+.your-business-img-2 {
+    max-width: 40px;
+    padding: 10px;
+    background-color: rgba(247, 0, 177, 0.096);
+    border-radius: 10px;
+}
+
+.your-business-img-3 {
+    max-width: 40px;
+    padding: 10px;
+    background-color: rgba(247, 243, 0, 0.096);
+    border-radius: 10px;
+}
+
+.your-business-img-4 {
+    max-width: 40px;
+    padding: 10px;
+    background-color: rgba(0, 247, 58, 0.096);
+    border-radius: 10px;
+}
